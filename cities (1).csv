@@ -1,0 +1,440 @@
+Country,Province,City,Pop.,ABBR,Rent,Total COL,Sal,QOL,Prov. ABBR
+Belgium,Brussels,Anderlecht,"125,883",BE,1033,1889,3040,76,
+Belgium,Flanders,Antwerp,"542,417",BE,909,1818,2918,91,
+Belgium,Flanders,Bruges,"119,748",BE,1005,1868,2486,82,
+Belgium,Brussels,Brussels,"195,546",BE,1133,2028,3458,91,
+Belgium,Wallonia,Charleroi,"203,950",BE,928,1718,2345,87,
+Belgium,Flanders,Ghent,"269,191",BE,953,1811,2819,87,
+Belgium,Wallonia,Liège,"194,994",BE,812,1599,3134,74,
+Belgium,Flemish,Leuven,"103,868",BE,1100,1867,3283,91,
+Belgium,Wallonia,Namur,"114,007",BE,801,1588,2322,73,
+Belgium,Brussels,Schaerbeek,"129,853",BE,1022,1854,3204,77,
+Austria,Styria,Graz,"305,323",AT,788,1685,2905,87,
+Austria,Tyrol,Innsbruck,"132,471",AT,1084,1917,2998,84,
+Austria,Carinthia,Klagenfurt,"105,280",AT,857,1683,2216,80,
+Austria,Upper Austria,Linz,"213,574",AT,852,1760,2672,83,
+Austria,Salzburg,Salzburg,"157,652",AT,1057,1904,3419,85,
+Austria,Vienna,Vienna,"2,028,399",AT,1089,2132,3535,95,
+Belarus,Mogilev,Babruysk,"208,611",BY,131,406,473,42,
+Belarus,Brest,Baranavichy,"172,150",BY,184,517,521,41,
+Belarus,Minsk,Barysaw,"136,409",BY,273,561,576,48,
+Belarus,Brest,Brest,"342,461",BY,203,528,475,42,
+Belarus,Gomel,Gomel,"501,802",BY,188,475,441,61,
+Belarus,Grodno,Grodno,"358,717",BY,82,349,561,46,
+Belarus,City of Minsk,Minsk,"1,995,471",BY,356,735,549,69,
+Belarus,Mogilev,Mogilev,"353,338",BY,210,545,568,45,
+Belarus,Brest,Pinsk,"124,613",BY,118,426,522,40,
+Belarus,Vitebsk,Vitebsk,"359,148",BY,109,293,537,47,
+Bulgaria,Burgas,Burgas,"194,993",BG,398,848,1029,73,
+Bulgaria,Pleven,Pleven,"110,843",BG,264,667,966,67,
+Bulgaria,Plovdiv,Plovdiv,"321,824",BG,372,836,1092,71,
+Bulgaria,Ruse,Ruse,"139,226",BG,343,777,991,67,
+Bulgaria,Sliven,Sliven,"111,392",BG,214,591,1380,57,
+Bulgaria,Sofia City,Sofia,"1,280,334",BG,629,1244,1061,78,
+Bulgaria,Stara Zagora,Stara Zagora,"142,746",BG,291,703,1228,70,
+Bulgaria,Varna,Varna,"319,900",BG,479,1039,1123,76,
+Albania,Tirana,Tirana,"418,495",AL,630,1294,803,72,
+Albania,Durrës,Durrës,"113,249",AL,418,945,824,57,
+France,Provence-Alpes-Côte d'Azur,Aix-en-Provence,"147,478",FR,966,1700,2167,84,PAC
+France,Hauts-de-France,Amiens,"133,625",FR,614,1300,3716,73,HDF
+France,Pays de la Loire,Angers,"157,175",FR,974,1715,3044,83,PDL
+France,Auvergne-Rhône-Alpes,Annecy,"131,715",FR,919,1727,2409,82,ARA
+France,Île-de-France,Argenteuil,"107,221",FR,1175,1942,3285,79,IDF
+France,Bourgogne-Franche-Comté,Besançon,"119,198",FR,563,1257,2245,82,BFC
+France,Nouvelle-Aquitaine,Bordeaux,"261,804",FR,845,1680,2701,86,NAQ
+France,Île-de-France,Boulogne-Billancourt,"119,808",FR,1498,2281,3577,93,IDF
+France,Brittany,Brest,"139,619",FR,513,1202,2533,81,BRE
+France,Normandy,Caen,"108,200",FR,727,1405,2597,68,NOR
+France,Auvergne-Rhône-Alpes,Clermont-Ferrand,"147,327",FR,734,1472,2649,80,ARA
+France,Bourgogne-Franche-Comté,Dijon,"159,346",FR,719,1483,2282,81,BFC
+France,Auvergne-Rhône-Alpes,Grenoble,"157,477",FR,771,1525,2798,86,ARA
+France,Normandy,Le Havre,"166,058",FR,571,1256,2138,68,NOR
+France,Hauts-de-France,Lille,"236,710",FR,837,1651,3036,85,HDF
+France,Nouvelle-Aquitaine,Limoges,"129,760",FR,541,1250,2290,78,NAQ
+France,Auvergne-Rhône-Alpes,Lyon,"522,250",FR,831,1693,3043,91,ARA
+France,Pays de la Loire,Le Mans,"145,004",FR,588,1344,2913,68,PDL
+France,Provence-Alpes-Côte d'Azur,Marseille,"873,076",FR,756,1733,2408,87,PAC
+France,Grand Est,Metz,"120,874",FR,743,1526,2922,81,GES
+France,Occitania,Montpellier,"302,454",FR,807,1593,2692,85,OCC
+France,Île-de-France,Montreuil,"111,455",FR,1152,1957,2975,79,IDF
+France,Grand Est,Mulhouse,"106,341",FR,624,1400,2232,83,GES
+France,Grand Est,Nancy,"104,260",FR,684,1478,2473,79,GES
+France,Pays de la Loire,Nantes,"323,204",FR,778,1574,2454,83,PDL
+France,Provence-Alpes-Côte d'Azur,Nice,"348,085",FR,992,1884,2400,83,PAC
+France,Occitania,Nîmes,"148,104",FR,651,1340,2387,85,OCC
+France,Centre-Val de Loire,Orléans,"116,617",FR,649,1335,3342,83,CVL
+France,Île-de-France,Paris,"2,133,111",FR,1497,2517,3732,97,IDF
+France,Occitania,Perpignan,"119,656",FR,657,1374,2124,76,OCC
+France,Grand Est,Reims,"179,380",FR,715,1486,2194,79,GES
+France,Brittany,Rennes,"225,081",FR,694,1469,2779,85,BRE
+France,Normandy,Rouen,"114,083",FR,623,1279,2676,85,NOR
+France,Île-de-France,Saint-Denis,"113,942",FR,1156,1932,3223,78,IDF
+France,Auvergne-Rhône-Alpes,Saint-Étienne,"172,718",FR,560,1239,2330,86,ARA
+France,Grand Est,Strasbourg,"291,313",FR,800,1620,2781,83,GES
+France,Provence-Alpes-Côte d'Azur,Toulon,"180,452",FR,734,1478,2210,82,PAC
+France,Occitania,Toulouse,"504,078",FR,812,1657,2886,90,OCC
+France,Centre-Val de Loire,Tours,"137,658",FR,558,1286,2459,67,CVL
+France,Auvergne-Rhône-Alpes,Villeurbanne,"156,928",FR,830,1638,3015,76,ARA
+Denmark,Capital,Copenhagen,"659,350",DK,1451,2601,4591,98,
+Denmark,Central,Aarhus,"343,533",DK,1137,2088,4171,91,
+Denmark,North Jutland,Aalborg,"204,901",DK,898,1866,3522,86,
+Denmark,Southern,Odense,"199,682",DK,851,1805,3673,91,
+Denmark,Southern,Esbjerg,"105,229",DK,786,1657,5204,89,
+Denmark,Capital,Frederiksberg,"104,899",DK,1622,2617,5094,82,
+Finland,Uusimaa,Helsinki,"674,963",FI,972,1947,3432,96,
+Finland,Uusimaa,Espoo,"314,152",FI,943,1937,3781,96,
+Finland,Pirkanmaa,Tampere,"255,066",FI,673,1422,3443,73,
+Finland,Uusimaa,Vantaa,"247,447",FI,974,1881,2469,79,
+Finland,North Ostrobothnia,Oulu,"214,651",FI,723,1660,2722,83,
+Finland,Southwest Finland,Turku,"201,889",FI,706,1545,3069,87,
+Finland,Central Finland,Jyväskylä,"147,821",FI,681,1500,3236,85,
+Finland,Northern Savonia,Kuopio,"124,011",FI,732,1524,2679,67,
+Finland,Päijänne Tavastia,Lahti,"120,693",FI,781,1618,2667,84,
+Croatia,Grad Zagreb,Zagreb,"768,624",HR,754,1437,1950,80,
+Croatia,Split-Dalmatia,Split,"159,008",HR,909,1623,1570,71,
+Croatia,Primorje-Gorski Kotar,Rijeka,"106,579",HR,683,1316,1500,73,
+Estonia,Harju,Tallinn,"437,817",EE,807,1601,1941,87,
+Germany,North Rhine-Westphalia,Aachen,"245,900",DE,872,1668,3384,90,NW
+Germany,Bavaria,Augsburg,"286,400",DE,1093,1954,3718,90,BY
+Germany,North Rhine-Westphalia,Bergisch Gladbach,"111,400",DE,963,1726,3483,81,NW
+Germany,Berlin,Berlin,"3,520,000",DE,1217,2222,3412,96,BB
+Germany,North Rhine-Westphalia,Bielefeld,"333,000",DE,801,1611,3396,90,NW
+Germany,North Rhine-Westphalia,Bochum,"364,700",DE,717,1560,2740,79,NW
+Germany,North Rhine-Westphalia,Bonn,"318,800",DE,1110,1957,4013,95,NW
+Germany,North Rhine-Westphalia,Bottrop,"117,100",DE,692,1474,2757,78,NW
+Germany,Lower Saxony,Braunschweig,"251,400",DE,701,1534,4290,78,NI
+Germany,Bremen,Bremen,"557,500",DE,899,1785,3265,91,HB
+Germany,Bremen,Bremerhaven,"114,000",DE,1084,1796,3106,73,HB
+Germany,Saxony,Chemnitz,"248,600",DE,609,1385,2767,88,SN
+Germany,North Rhine-Westphalia,Cologne,"1,060,600",DE,1091,1968,3266,96,NW
+Germany,Hesse,Darmstadt,"155,400",DE,1019,1793,3568,93,HE
+Germany,North Rhine-Westphalia,Dortmund,"586,200",DE,762,1632,3427,93,NW
+Germany,Saxony,Dresden,"543,800",DE,755,1555,3206,89,SN
+Germany,North Rhine-Westphalia,Duisburg,"491,200",DE,561,1340,2577,80,NW
+Germany,North Rhine-Westphalia,Düsseldorf,"612,200",DE,1090,1979,3937,96,NW
+Germany,Thuringia,Erfurt,"210,100",DE,714,1527,3419,75,TH
+Germany,Bavaria,Erlangen,"108,300",DE,910,1688,4577,92,BY
+Germany,North Rhine-Westphalia,Essen,"582,600",DE,666,1516,3571,96,NW
+Germany,Hesse,Frankfurt,"732,700",DE,1245,2182,4614,95,HE
+Germany,Baden-Württemberg,Freiburg im Breisgau,"226,400",DE,927,1738,3682,88,BW
+Germany,Bavaria,Fürth,"124,200",DE,896,1679,3746,77,BY
+Germany,North Rhine-Westphalia,Gelsenkirchen,"260,400",DE,726,1506,2335,91,NW
+Germany,Lower Saxony,Göttingen,"119,000",DE,800,1578,2816,73,NI
+Germany,North Rhine-Westphalia,Hagen,"189,000",DE,763,1567,3102,78,NW
+Germany,Saxony-Anhalt,Halle,"237,000",DE,596,1388,3303,92,ST
+Germany,Hamburg,Hamburg,"1,747,400",DE,1127,2172,3668,95,HH
+Germany,North Rhine-Westphalia,Hamm,"179,400",DE,754,1515,2146,73,NW
+Germany,Lower Saxony,Hanover,"532,200",DE,891,1828,2914,93,NI
+Germany,Baden-Württemberg,Heidelberg,"156,300",DE,1121,1991,3986,91,BW
+Germany,Baden-Württemberg,Heilbronn,"122,600",DE,1124,1909,2780,74,BW
+Germany,North Rhine-Westphalia,Herne,"155,900",DE,844,1631,2191,89,NW
+Germany,Lower Saxony,Hildesheim,"101,700",DE,841,1619,2101,74,NI
+Germany,Bavaria,Ingolstadt,"132,400",DE,907,1659,3399,75,BY
+Germany,Thuringia,Jena,"109,500",DE,657,1320,3670,76,TH
+Germany,Baden-Württemberg,Karlsruhe,"307,800",DE,981,1891,3046,89,BW
+Germany,Hesse,Kassel,"198,000",DE,715,1509,2761,86,HE
+Germany,Schleswig-Holstein,Kiel,"246,300",DE,866,1678,2775,86,SH
+Germany,Rhineland-Palatinate,Koblenz,"112,600",DE,822,1583,3498,76,RP
+Germany,North Rhine-Westphalia,Krefeld,"225,100",DE,796,1626,2717,78,NW
+Germany,Saxony,Leipzig,"560,500",DE,856,1690,3010,92,SN
+Germany,North Rhine-Westphalia,Leverkusen,"163,500",DE,1240,2037,4167,82,NW
+Germany,Schleswig-Holstein,Lübeck,"216,300",DE,934,1743,3206,75,SH
+Germany,Rhineland-Palatinate,Ludwigshafen,"164,700",DE,1107,1890,3675,76,RP
+Germany,Saxony-Anhalt,Magdeburg,"235,700",DE,606,1411,2929,73,ST
+Germany,Rhineland-Palatinate,Mainz,"209,800",DE,907,1736,3334,79,RP
+Germany,Baden-Württemberg,Mannheim,"305,800",DE,1002,1825,4964,94,BW
+Germany,North Rhine-Westphalia,Moers,"104,500",DE,741,1525,2913,78,NW
+Germany,North Rhine-Westphalia,Mönchengladbach,"260,000",DE,843,1651,3057,79,NW
+Germany,North Rhine-Westphalia,Mülheim,"169,300",DE,760,1543,2836,79,NW
+Germany,Bavaria,Munich,"1,450,400",DE,1467,2463,3954,94,BY
+Germany,North Rhine-Westphalia,Münster,"310,000",DE,1064,1887,3381,89,NW
+Germany,North Rhine-Westphalia,Neuss,"155,400",DE,879,1650,2654,92,NW
+Germany,Bavaria,Nuremberg,"510,000",DE,898,1767,3627,92,BY
+Germany,North Rhine-Westphalia,Oberhausen,"211,000",DE,797,1605,2531,78,NW
+Germany,Hesse,Offenbach am Main,"211,000",DE,924,1730,2885,77,HE
+Germany,Lower Saxony,Oldenburg,"163,800",DE,949,1727,3179,88,NI
+Germany,Lower Saxony,Osnabrück,"162,400",DE,702,1432,2605,74,NI
+Germany,North Rhine-Westphalia,Paderborn,"148,100",DE,810,1589,2694,73,NW
+Germany,Baden-Württemberg,Pforzheim,"122,200",DE,791,1565,3118,77,BW
+Germany,Brandenburg,Potsdam,"167,700",DE,1071,1902,3440,79,BB
+Germany,North Rhine-Westphalia,Recklinghausen,"114,300",DE,710,1535,2901,76,NW
+Germany,Bavaria,Regensburg,"145,500",DE,902,1720,3448,88,BY
+Germany,North Rhine-Westphalia,Remscheid,"109,500",DE,831,1608,2878,79,NW
+Germany,Baden-Württemberg,Reutlingen,"114,310",DE,1008,1876,3479,91,BW
+Germany,Mecklenburg-Vorpommern,Rostock,"206,000",DE,685,1481,2603,84,MV
+Germany,Saarland,Saarbrücken,"178,200",DE,701,1479,3157,87,SL
+Germany,Lower Saxony,Salzgitter,"101,100",DE,750,1511,1759,71,NI
+Germany,North Rhine-Westphalia,Siegen,"102,400",DE,758,1450,2727,74,NW
+Germany,North Rhine-Westphalia,Solingen,"158,700",DE,872,1691,4494,84,NW
+Germany,Baden-Württemberg,Stuttgart,"623,700",DE,1276,2207,3556,93,BW
+Germany,Rhineland-Palatinate,Trier,"114,900",DE,862,1725,2897,86,RP
+Germany,Baden-Württemberg,Ulm,"122,636",DE,1027,1845,3839,88,BW
+Germany,Hesse,Wiesbaden,"276,200",DE,1039,1922,3900,94,HE
+Germany,Lower Saxony,Wolfsburg,"124,000",DE,653,1413,4398,77,NI
+Germany,North Rhine-Westphalia,Wuppertal,"350,000",DE,653,1488,3021,81,NW
+Germany,Bavaria,Würzburg,"124,900",DE,688,1307,3422,74,BY
+Italy,Apulia,Bari,"316,736",IT,799,1588,1851,81,AP
+Italy,Lombardy,Bergamo,"119,809",IT,773,1547,2227,85,LO
+Italy,Emilia-Romagna,Bologna,"389,200",IT,895,1727,2097,85,ER
+Italy,Trentino-Alto Adige/Südtirol,Bolzano,"106,410",IT,841,1518,2006,62,TT
+Italy,Lombardy,Brescia,"197,236",IT,883,1762,1983,82,LO
+Italy,Sardinia,Cagliari,"148,296",IT,761,1586,1821,77,SA
+Italy,Sicily,Catania,"299,730",IT,588,1298,1992,81,SI
+Italy,Emilia-Romagna,Ferrara,"129,724",IT,647,1393,1680,81,ER
+Italy,Tuscany,Florence,"362,742",IT,964,1785,2001,85,TU
+Italy,Apulia,Foggia,"146,017",IT,631,1334,1782,77,AP
+Italy,Emilia-Romagna,Forlì,"116,726",IT,858,1614,2124,79,ER
+Italy,Liguria,Genoa,"561,191",IT,769,1620,2028,81,LI
+Italy,Campania,Giugliano in Campania,"124,222",IT,685,1389,1685,69,CM
+Italy,Lazio,Latina,"127,719",IT,664,1345,1908,81,LZ
+Italy,Tuscany,Livorno,"153,859",IT,736,1510,1634,84,TU
+Italy,Sicily,Messina,"219,387",IT,532,1176,1820,78,SI
+Italy,Lombardy,Milan,"1,358,420",IT,1295,2307,2386,88,LO
+Italy,Emilia-Romagna,Modena,"184,836",IT,853,1700,1965,83,ER
+Italy,Lombardy,Monza,"122,369",IT,917,1764,1991,85,LO
+Italy,Campania,Naples,"917,510",IT,828,1605,1788,86,CM
+Italy,Piedmont,Novara,"101,797",IT,578,1264,1955,85,PI
+Italy,Veneto,Padua,"207,112",IT,951,1769,2020,83,VE
+Italy,Sicily,Palermo,"632,499",IT,611,1301,1505,78,SI
+Italy,Emilia-Romagna,Parma,"197,018",IT,787,1589,1922,79,ER
+Italy,Umbria,Perugia,"162,367",IT,527,1215,1690,79,UM
+Italy,Abruzzo,Pescara,"118,829",IT,513,1166,2031,64,AB
+Italy,Emilia-Romagna,Piacenza,"102,728",IT,750,1582,2054,67,ER
+Italy,Tuscany,Prato,"196,317",IT,793,1607,2042,71,TU
+Italy,Emilia-Romagna,Ravenna,"156,050",IT,620,1384,1745,77,ER
+Italy,Calabria,Reggio Calabria,"171,181",IT,498,1161,1223,75,CA
+Italy,Emilia-Romagna,Reggio Emilia,"170,451",IT,656,1446,1979,81,ER
+Italy,Emilia-Romagna,Rimini,"149,681",IT,777,1567,1917,76,ER
+Italy,Lazio,Rome,"2,755,309",IT,1128,2020,2219,89,LZ
+Italy,Campania,Salerno,"127,485",IT,797,1518,1653,81,CM
+Italy,Sardinia,Sassari,"121,409",IT,586,1269,1457,72,SA
+Italy,Sicily,Syracuse,"116,635",IT,578,1232,1579,74,SI
+Italy,Apulia,Taranto,"188,310",IT,603,1311,1580,76,AP
+Italy,Umbria,Terni,"106,793",IT,451,1101,1625,79,UM
+Italy,Trentino-Alto Adige/Südtirol,Trento,"118,277",IT,833,1612,2043,65,TT
+Italy,Friuli-Venezia Giulia,Trieste,"199,032",IT,813,1600,1818,78,FG
+Italy,Piedmont,Turin,"847,398",IT,762,1582,1975,85,PI
+Italy,Veneto,Venice,"250,913",IT,869,1704,1781,82,VE
+Italy,Veneto,Verona,"256,049",IT,845,1657,2105,84,VE
+Italy,Veneto,Vicenza,"110,283",IT,804,1574,1926,81,VE
+Greece,Attica,Athens,"643,452",GR,710,1436,1185,82,
+Greece,Western Greece,Patras,"169,886",GR,531,1111,1057,71,
+Greece,Crete,Heraklion,"145,440",GR,613,1256,1108,74,
+Greece,Thessaly,Larissa,"146,377",GR,533,1149,1015,71,
+Greece,Attica,Piraeus,"168,151",GR,539,1177,1106,66,
+Greece,Thessaly,Volos,"139,670",GR,475,1101,968,56,
+Greece,Attica,Peristeri,"133,630",GR,574,1192,796,64,
+Greece,Central Macedonia,Thessaloniki,"309,617",GR,569,1225,1130,78,
+Hungary,Central Hungary,Budapest,"1,671,004",HU,707,1377,1503,82,
+Hungary,Northern Great Plain,Debrecen,"201,582",HU,563,1058,1067,68,
+Hungary,Western Transdanubia,Győr,"130,020",HU,404,861,1269,57,
+Hungary,Southern Great Plain,Kecskemét,"109,731",HU,455,895,1062,70,
+Hungary,Northern Hungary,Miskolc,"145,248",HU,432,913,1109,68,
+Hungary,Northern Great Plain,Nyíregyháza,"115,711",HU,328,735,1450,56,
+Hungary,Southern Transdanubia,Pécs,"141,031",HU,499,1033,858,66,
+Hungary,Southern Great Plain,Szeged,"158,829",HU,432,934,1261,68,
+Ireland,Dublin,Dublin,"592,713",IE,1880,2858,4105,96,
+Ireland,Cork,Cork,"131,423",IE,1584,2472,3327,88,
+Iceland,Capital,Reykjavík,"136,894",IS,2025,3268,4361,91,
+Netherlands,Flevoland,Almere,"226,438",NL,1339,2230,3374,92,
+Netherlands,North Holland,Amsterdam,"935,521",NL,2031,3118,4702,96,
+Netherlands,Gelderland,Apeldoorn,"168,265",NL,1292,2154,3347,89,
+Netherlands,Gelderland,Arnhem,"167,671",NL,1129,1986,4461,92,
+Netherlands,North Brabant,Breda,"188,277",NL,1139,2087,4074,93,
+Netherlands,South Holland,Delft,"109,452",NL,1383,2228,3576,91,
+Netherlands,Overijssel,Deventer,"103,456",NL,1313,2107,2908,88,
+Netherlands,Gelderland,Ede,"123,545",NL,1030,1860,2453,88,
+Netherlands,North Brabant,Eindhoven,"246,581",NL,1327,2199,4013,94,
+Netherlands,Drenthe,Emmen,"109,311",NL,878,1704,2877,72,
+Netherlands,Overijssel,Enschede,"161,947",NL,1246,2121,3472,87,
+Netherlands,Groningen,Groningen,"244,003",NL,1071,1951,3120,85,
+Netherlands,North Holland,Haarlem,"167,752",NL,1626,2589,3686,93,
+Netherlands,South Holland,The Hague,"565,817",NL,1568,2581,4532,95,
+Netherlands,Friesland,Leeuwarden,"128,845",NL,1129,1982,2800,70,
+Netherlands,South Holland,Leiden,"130,269",NL,1397,2222,4593,95,
+Netherlands,Limburg,Maastricht,"125,464",NL,1333,2181,3610,88,
+Netherlands,Gelderland,Nijmegen,"186,798",NL,1240,2164,3188,90,
+Netherlands,South Holland,Rotterdam,"671,221",NL,1599,2615,3894,94,
+Netherlands,North Brabant,Tilburg,"229,940",NL,1290,2238,3562,93,
+Netherlands,Utrecht,Utrecht,"374,409",NL,1787,2718,4136,95,
+Netherlands,Limburg,Venlo,"103,688",NL,1121,1942,3938,76,
+Netherlands,Overijssel,Zwolle,"133,065",NL,1168,1992,3073,87,
+Norway,Oslo,Oslo,"717,710",NO,1569,2721,3963,95,
+Norway,Vestland,Bergen,"291,940",NO,1148,2242,3736,93,
+Norway,Trøndelag,Trondheim,"214,565",NO,1241,2284,4097,88,
+Norway,Rogaland,Stavanger,"149,048",NO,1356,2341,3990,87,
+Norway,Østfold,Fredrikstad,"130,921",NO,1164,2181,3009,72,
+Norway,Agder,Kristiansand,"116,986",NO,705,1497,3666,70,
+Norway,Buskerud,Drammen,"104,487",NO,890,1741,3317,77,
+Moldova, Transnistria,Tiraspol,"133,807",MD,186,546,264,41,
+Lithuania,Vilnius,Vilnius,"592,156",LT,764,1414,1836,83,
+Lithuania,Kaunas,Kaunas,"304,210",LT,667,1334,1428,78,
+Lithuania,Šiauliai,Šiauliai,"110,463",LT,474,967,1325,72,
+Latvia,Riga,Riga,"620,974",LV,619,1270,1509,82,
+Luxembourg,Luxembourg,Luxembourg,"134,697",LU,1866,2776,5130,89,
+Montenegro,Podgorica,Podgorica,"173,024",ME,539,1047,1100,69,
+Spain,Castilla–La Mancha,Albacete,"173,206",ES,831,1464,1945,74,
+Spain,Community of Madrid,Alcalá de Henares,"199,184",ES,867,1573,1673,85,
+Spain,Community of Madrid,Alcobendas,"119,416",ES,988,1656,2594,74,
+Spain,Andalusia,Algeciras,"123,639",ES,457,987,1980,64,
+Spain,Valencian Community,Alicante,"349,282",ES,816,1461,1921,86,
+Spain,Andalusia,Almería,"200,578",ES,623,1298,1423,74,
+Spain,Extremadura,Badajoz,"150,190",ES,604,1200,1524,74,
+Spain,Catalonia,Badalona,"225,957",ES,1479,2170,2126,73,
+Spain,Catalonia,Barcelona,"1,660,122",ES,1268,2087,2248,90,
+Spain,Basque Country,Bilbao,"346,096",ES,952,1660,2067,81,
+Spain,Castile and León,Burgos,"174,451",ES,717,1343,2060,77,
+Spain,Andalusia,Cádiz,"111,811",ES,924,1501,1938,77,
+Spain,Region of Murcia,Cartagena,"218,050",ES,630,1206,1819,79,
+Spain,Valencian Community,Castellón de la Plana,"176,238",ES,613,1158,1785,70,
+Spain,Andalusia,Córdoba,"323,763",ES,657,1233,1900,77,
+Spain,Galicia,A Coruña,"247,376",ES,697,1352,1760,78,
+Spain,Andalusia,Dos Hermanas,"138,981",ES,800,1359,1847,66,
+Spain,Valencian Community,Elche,"238,293",ES,613,1277,1658,84,
+Spain,Community of Madrid,Fuenlabrada,"188,736",ES,897,1592,1743,72,
+Spain,Asturias,Gijón,"268,313",ES,707,1389,1966,76,
+Spain,Catalonia,Girona,"104,320",ES,973,1580,1895,79,
+Spain,Andalusia,Granada,"230,595",ES,712,1334,2044,79,
+Spain,Andalusia,Huelva,"142,532",ES,680,1265,1525,76,
+Spain,Andalusia,Jaén,"111,888",ES,556,1133,1423,61,
+Spain,Andalusia,Jérez de la Frontera,"213,231",ES,465,989,1694,66,
+Spain,Castile and León,León,"121,281",ES,738,1303,1999,75,
+Spain,Catalonia,Lleida,"143,094",ES,596,1229,1759,63,
+Spain,La Rioja,Logroño,"150,583",ES,568,1118,2049,67,
+Spain,Community of Madrid,Madrid,"3,332,035",ES,1177,2015,2580,92,
+Spain,Andalusia,Málaga,"586,384",ES,929,1617,1700,80,
+Spain,Andalusia,Marbella,"156,295",ES,1273,1924,2160,78,
+Spain,Catalonia,Mataró,"129,870",ES,902,1575,1975,71,
+Spain,Community of Madrid,Móstoles,"211,265",ES,1024,1703,1560,71,
+Spain,Region of Murcia,Murcia,"469,177",ES,661,1305,1750,82,
+Spain,Galicia,Ourense,"104,250",ES,569,1147,1514,74,
+Spain,Asturias,Oviedo,"217,584",ES,659,1300,2193,77,
+Spain,Balearic Islands,Palma de Mallorca,"423,350",ES,1186,1930,1846,79,
+Spain,Canary Islands,Las Palmas,"378,027",ES,826,1484,1761,81,
+Spain,Navarre,Pamplona,"205,762",ES,900,1585,1953,79,
+Spain,Catalonia,Sabadell,"218,300",ES,984,1637,2228,87,
+Spain,Castile and León,Salamanca,"143,954",ES,625,1189,1636,78,
+Spain,Canary Islands,San Cristóbal de La Laguna,"159,034",ES,899,1539,1732,63,
+Spain,Basque Country,San Sebastián,"188,743",ES,985,1673,2636,81,
+Spain,Canary Islands,Santa Cruz de Tenerife,"209,395",ES,912,1567,1741,78,
+Spain,Cantabria,Santander,"172,726",ES,691,1372,2027,79,
+Spain,Andalusia,Seville,"684,025",ES,753,1393,1817,82,
+Spain,Catalonia,Tarragona,"138,262",ES,855,1445,1907,80,
+Spain,Catalonia,Terrassa,"225,277",ES,895,1590,2352,74,
+Spain,Community of Madrid,Torrejón de Ardoz,"137,711",ES,916,1581,2161,73,
+Spain,Valencian Community,Valencia,"807,693",ES,962,1703,2415,89,
+Spain,Castile and León,Valladolid,"297,459",ES,634,1367,2235,80,
+Spain,Galicia,Vigo,"293,652",ES,667,1302,1964,65,
+Spain,Basque Country,Vitoria-Gasteiz,"255,886",ES,1031,1685,2094,81,
+Spain,Aragon,Zaragoza,"682,513",ES,761,1457,1744,77,
+Poland,Podlaskie,Białystok,"292,058",PL,654,1148,1323,74,
+Poland,Silesian,Bielsko-Biała,"166,189",PL,693,1201,1265,75,
+Poland,Kuyavian-Pomeranian,Bydgoszcz,"328,370",PL,588,1103,1301,75,
+Poland,Silesian,Bytom,"148,687",PL,565,1043,1469,64,
+Poland,Silesian,Chorzów,"101,184",PL,552,1038,1496,78,
+Poland,Silesian,Częstochowa,"207,117",PL,570,1033,1256,76,
+Poland,Silesian,Dąbrowa Górnicza,"114,148",PL,587,1077,1278,77,
+Poland,Warmian-Masurian,Elbląg,"113,195",PL,632,1074,1384,61,
+Poland,Pomeranian,Gdańsk,"486,492",PL,917,1519,1766,81,
+Poland,Pomeranian,Gdynia,"242,141",PL,891,1478,2090,81,
+Poland,Silesian,Gliwice,"170,457",PL,572,1026,1469,64,
+Poland,Lubusz,Gorzów Wielkopolski,"115,847",PL,596,1113,1235,70,
+Poland,Silesian,Katowice,"279,119",PL,631,1137,1576,79,
+Poland,Świętokrzyskie,Kielce,"183,147",PL,609,1097,1414,74,
+Poland,West Pomeranian,Koszalin,"105,905",PL,623,1089,1323,56,
+Poland,Lesser Poland,Kraków,"804,237",PL,960,1580,1891,83,
+Poland,Łódź,Łódź,"655,279",PL,712,1338,1620,78,
+Poland,Lublin,Lublin,"330,447",PL,790,1323,1364,77,
+Poland,Warmian-Masurian,Olsztyn,"167,844",PL,695,1182,1355,70,
+Poland,Opole,Opole,"126,300",PL,758,1230,1476,74,
+Poland,Masovian,Płock,"111,927",PL,703,1166,1278,71,
+Poland,Greater Poland,Poznań,"540,146",PL,836,1420,1831,80,
+Poland,Masovian,Radom,"196,918",PL,564,1008,1103,73,
+Poland,Silesian,Ruda Śląska,"131,062",PL,607,1085,1594,64,
+Poland,Silesian,Rybnik,"131,323",PL,541,1010,1351,76,
+Poland,Podkarpackie,Rzeszów,"197,536",PL,689,1200,2063,74,
+Poland,Silesian,Sosnowiec,"188,151",PL,600,1093,1255,77,
+Poland,West Pomeranian,Szczecin,"390,278",PL,668,1166,1577,77,
+Poland,Lesser Poland,Tarnów,"103,515",PL,518,966,1073,73,
+Poland,Kuyavian-Pomeranian,Toruń,"195,263",PL,484,926,1637,76,
+Poland,Silesian,Tychy,"122,605",PL,569,1054,1473,64,
+Poland,Lower Silesian,Wałbrzych,"101,082",PL,499,1015,1253,59,
+Poland,Masovian,Warsaw,"1,861,644",PL,1217,1978,2042,85,
+Poland,Kuyavian-Pomeranian,Włocławek,"101,450",PL,569,902,1083,70,
+Poland,Lower Silesian,Wrocław,"674,132",PL,977,1592,1688,79,
+Poland,Silesian,Zabrze,"154,642",PL,717,1147,1489,64,
+Poland,Lubusz,Zielona Góra,"139,132",PL,640,1107,1490,71,
+Romania,Arad,Arad,"145,078",RO,295,708,837,70,
+Romania,Bacău,Bacău,"136,087",RO,264,724,978,55,
+Romania,Maramureș,Baia Mare,"108,759",RO,266,714,755,50,
+Romania,Brăila,Brăila,"154,686",RO,390,871,992,67,
+Romania,Bucharest,Bucharest,"1,716,961",RO,525,1116,1391,81,
+Romania,Buzău,Buzău,"103,481",RO,427,857,917,66,
+Romania,Cluj,Cluj-Napoca,"286,598",RO,660,1193,1337,74,
+Romania,Dolj,Craiova,"234,140",RO,450,909,1176,70,
+Romania,Bihor,Oradea,"183,105",RO,378,839,905,67,
+Romania,Sibiu,Sibiu,"134,309",RO,393,805,1128,69,
+Sweden,Västra Götaland,Gothenburg,"655,100",SE,902,1823,3793,94,
+Sweden,Skåne,Helsingborg,"113,800",SE,729,1485,3214,88,
+Sweden,Jönköping,Jönköping,"101,100",SE,747,1528,2770,85,
+Sweden,Östergötland,Linköping,"119,000",SE,717,1530,3492,85,
+Sweden,Skåne,Malmö,"324,000",SE,875,1757,3358,90,
+Sweden,Örebro,Örebro,"126,000",SE,578,1325,3224,86,
+Sweden,Stockholm,Stockholm,"1,766,100",SE,1271,2297,3571,96,
+Sweden,Uppsala,Uppsala,"167,300",SE,823,1650,2709,92,
+Sweden,Västmanland,Västerås,"128,500",SE,711,1494,3402,89,
+Sweden,Gävleborg,Gävle,"105,000",SE,752,1483,3239,71,
+Portugal,Lisbon,Amadora,"174,511",PT,931,1481,1137,82,
+Portugal,North,Braga,"197,594",PT,777,1337,1236,80,
+Portugal,Lisbon,Cascais,"213,928",PT,1085,1656,2431,86,
+Portugal,Central,Coimbra,"142,252",PT,699,1260,1359,78,
+Portugal,Madeira,Funchal,"106,429",PT,1028,1561,1069,73,
+Portugal,Lisbon,Lisbon,"548,703",PT,1221,1889,1510,84,
+Portugal,Lisbon,Loures,"203,724",PT,923,1509,863,67,
+Portugal,North,Porto,"240,592",PT,916,1499,1401,82,
+Portugal,Lisbon,Sintra,"388,767",PT,978,1577,1490,70,
+Portugal,North,Vila Nova de Gaia,"307,563",PT,847,1457,1676,84,
+Switzerland,Basel-Stadt,Basel,"169,900",CH,1567,2964,8160,98,
+Switzerland,Bern,Bern,"131,600",CH,1636,2945,7481,96,
+Switzerland,Geneva,Geneva,"198,100",CH,2137,3577,7638,97,
+Switzerland,Vaud,Lausanne,"135,600",CH,1703,3069,7412,96,
+Switzerland,Zürich,Winterthur,"108,300",CH,1820,3207,7786,98,
+Switzerland,Zürich,Zürich,"397,000",CH,2299,3691,8151,100,
+Serbia,Šumadija and Western Serbia,Kragujevac,"150,800",RS,447,918,833,64,
+Serbia,Southern and Eastern Serbia,Niš,"186,200",RS,400,819,826,62,
+Serbia,Vojvodina,Novi Sad,"285,500",RS,603,1141,971,68,
+Serbia,Vojvodina,Subotica,"104,400",RS,419,832,722,47,
+Slovakia,Bratislava,Bratislava,"478,040",SK,854,1497,1662,82,
+Slovakia,Košice,Kosice,"225,044",SK,850,1436,1454,73,
+Slovenia,Ljubljana,Ljubljana,"288,382",SI,962,1640,1837,82,
+Ukraine,Kyiv Oblast,Bila Tserkva,"208,737",UA,196,497,476,45,
+Ukraine,Cherkasy Oblast,Cherkasy,"272,651",UA,213,498,458,42,
+Ukraine,Chernihiv Oblast,Chernihiv,"285,234",UA,212,516,474,56,
+Ukraine,Chernivtsi Oblast,Chernivtsi,"265,471",UA,257,545,422,55,
+Ukraine,Dnipropetrovsk Oblast,Dnipro,"980,948",UA,381,790,428,60,
+Ukraine,Donetsk Oblast,Donetsk,"905,364",UA,260,516,433,42,
+Ukraine,Donetsk Oblast,Horlivka,"241,106",UA,309,650,424,41,
+Ukraine,Ivano-Frankivsk Oblast,Ivano-Frankivsk,"237,855",UA,234,482,383,43,
+Ukraine,Dnipropetrovsk Oblast,Kamianske,"229,794",UA,316,656,471,45,
+Ukraine,Kharkiv Oblast,Kharkiv,"1,433,886",UA,203,510,434,63,
+Ukraine,Kherson Oblast,Kherson,"283,649",UA,144,420,371,43,
+Ukraine,Khmelnytskyi Oblast,Khmelnytskyi,"274,582",UA,231,535,423,54,
+Ukraine,Donetsk Oblast,Kramatorsk,"164,700",UA,306,639,474,41,
+Ukraine,Poltava Oblast,Kremenchuk,"217,710",UA,182,440,433,40,
+Ukraine,Kirovohrad Oblast,Kropyvnytskyi,"222,695",UA,239,616,417,40,
+Ukraine,Dnipropetrovsk Oblast,Kryvyi Rih,"646,748",UA,220,503,337,41,
+Ukraine,Luhansk Oblast,Luhansk,"399,559",UA,423,732,418,40,
+Ukraine,Volyn Oblast,Lutsk,"217,197",UA,284,546,401,56,
+Ukraine,Lviv Oblast,Lviv,"717,486",UA,399,762,441,65,
+Ukraine,Donetsk Oblast,Makiivka,"340,337",UA,266,534,421,40,
+Ukraine,Donetsk Oblast,Mariupol,"431,859",UA,229,539,418,41,
+Ukraine,Zaporizhzhia Oblast,Melitopol,"150,768",UA,265,545,428,39,
+Ukraine,Mykolaiv Oblast,Mykolaiv,"476,101",UA,197,516,463,59,
+Ukraine,Poltava Oblast,Poltava,"283,402",UA,227,479,460,42,
+Ukraine,Rivne Oblast,Rivne,"245,289",UA,253,439,414,56,
+Ukraine,Luhansk Oblast,Sievierodonetsk,"101,135",UA,331,633,425,39,
+Ukraine,Sumy Oblast,Sumy,"259,660",UA,216,496,431,41,
+Ukraine,Ternopil Oblast,Ternopil,"225,238",UA,191,465,426,43,
+Ukraine,Zakarpattia Oblast,Uzhhorod,"115,442",UA,249,494,471,41,
+Ukraine,Vinnytsia Oblast,Vinnytsia,"370,601",UA,275,603,423,43,
+Ukraine,Zhytomyr Oblast,Zhytomyr,"263,507",UA,257,586,396,54,
